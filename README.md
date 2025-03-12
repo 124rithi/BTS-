@@ -5,8 +5,7 @@ body {
 background-color: #f2f2f2;
 font-family: Arial, sans-serif;
 }
-
-```  .container {
+  .container {
     width: 80%;
     margin: 40px auto;
     text-align: center;
@@ -26,7 +25,6 @@ font-family: Arial, sans-serif;
     margin-top: 10px;
   }
 </style>
-```
 </head>
 <body>
 <div class="container">
